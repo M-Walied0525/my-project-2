@@ -1,0 +1,96 @@
+body{
+ width: 1450px;  
+ height: 1450px;  
+ display: flex;
+ justify-content: center;
+ background: white; 
+ align-items: center;
+}
+h2{
+    font-family:Big Shoulders ;
+    font-weight: 700;
+}
+p{
+
+    font-family:Lexend Deca ;
+    font-weight: 400;
+    font-size: 15px;
+    color:  hsla(0, 0%, 100%, 0.75);
+}
+
+.container{
+ width: 95%;  
+ height: 85%;
+ background: rgb(237, 235, 235);
+ box-shadow: 2px 2px 5px black ,-2px -2px -5px black;
+}
+
+.first{
+    width:20%;
+    height: 40%;
+    background: hsl(31, 77%, 52%);
+    border-radius: 10px 0px 0px 10px;
+ 
+    
+}
+.tf{
+    padding: 50px;
+    color:white;
+    text-align: left;
+    line-height: 25px;
+}
+.fi-button{
+    border: 2px solid;
+    border-radius: 20px;
+    color: hsl(31, 77%, 52%) ;
+    padding: 10px 20px;
+   margin-top: auto;
+
+}
+.second{
+     width:20%;
+    height: 40%;
+    background: hsl(184, 100%, 22%);
+}
+.ts{
+    padding: 50px;
+    color:white;
+    text-align: left;
+    line-height: 25px;
+}
+.se-button{
+    border: 2px solid;
+    border-radius: 20px;
+    color: hsl(184, 100%, 22%) ;
+    padding: 10px 20px;
+    margin-top: auto;
+
+}
+
+.th{
+     width:20%;
+    height: 40%;
+    background:  hsl(179, 100%, 13%);
+     border-radius:0px 10px 10px 0px;
+}
+.tt{
+    padding: 50px;
+    color:white;
+    text-align: left;
+    line-height: 25px;
+}
+.th-button{
+    border: 2px solid;
+    border-radius: 20px;
+    color: hsl(179, 100%, 13%) ;
+    padding: 10px 20px;
+    margin-top: auto;
+}
+
+.container{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+
+}
+
